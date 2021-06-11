@@ -1,0 +1,2 @@
+const userDatabase = {};
+// userId -> password
